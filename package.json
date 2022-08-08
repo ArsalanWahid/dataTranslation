@@ -1,0 +1,22 @@
+{
+  "name": "datatranslation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsalanWahid/dataTranslation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsalanWahid/dataTranslation/issues"
+  },
+  "homepage": "https://github.com/ArsalanWahid/dataTranslation#readme",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
